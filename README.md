@@ -6,7 +6,6 @@
 xml中：
       
 <base.common.BottomView.AppBottomView
-
         android:id="@+id/action_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
